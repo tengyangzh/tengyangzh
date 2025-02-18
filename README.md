@@ -38,14 +38,8 @@ const anmol = {
         },
         generativeAI: ["GPT", "Vectorization"],
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
     currentFocus: "Leading a way in HPC&Compiler",
-    funFact: "I can debug faster with a coffee in hand!"
+    funFact: "I can make programs run faster with a coffee in hand!"
 };
 ```
 
