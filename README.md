@@ -57,6 +57,8 @@ const anmol = {
 
 > 📦 422.7 kB Used in GitHub's Storage 
  > 
+> 🏆 27 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -90,13 +92,13 @@ Sunday                   88 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +114,7 @@ Assembly                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2025 01:24:20 UTC
+ Last Updated on 17/03/2025 01:21:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
