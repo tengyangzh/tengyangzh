@@ -57,8 +57,6 @@ const anmol = {
 
 > 📦 422.7 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -114,7 +112,7 @@ Assembly                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2025 01:20:17 UTC
+ Last Updated on 20/03/2025 01:18:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
