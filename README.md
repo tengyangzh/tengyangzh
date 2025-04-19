@@ -59,8 +59,6 @@ const anmol = {
  > 
 > 🏆 36 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 19 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
