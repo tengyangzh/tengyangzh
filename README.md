@@ -49,7 +49,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.3%20million%20lines%20of%20code-blue)
 
@@ -114,7 +114,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 03:55:57 UTC
+ Last Updated on 04/05/2025 04:03:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
