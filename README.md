@@ -105,16 +105,16 @@ No Activity Tracked This Week
 
 ```text
 Python                   15 repos            █████████░░░░░░░░░░░░░░░░   34.09 % 
-C++                      12 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+C++                      13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Fortran                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 14/07/2025 04:45:45 UTC
+ Last Updated on 15/07/2025 04:41:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
