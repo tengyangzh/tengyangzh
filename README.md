@@ -47,6 +47,8 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.2%20million%20lines%20of%20code-blue)
@@ -102,17 +104,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████████░░░░░░░░░░░░░░░░   34.09 % 
-C++                      12 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   15 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C++                      12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Assembly                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 03/11/2025 05:26:30 UTC
+ Last Updated on 04/11/2025 05:20:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
