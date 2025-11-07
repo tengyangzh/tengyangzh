@@ -55,7 +55,7 @@ const anmol = {
 
 **🐱 My GitHub Data** 
 
-> 📦 472.2 kB Used in GitHub's Storage 
+> 📦 472.1 kB Used in GitHub's Storage 
  > 
 > 🏆 43 Contributions in the Year 2025
  > 
@@ -114,7 +114,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2025 05:24:59 UTC
+ Last Updated on 07/11/2025 05:27:18 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
