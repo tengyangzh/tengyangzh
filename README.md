@@ -47,8 +47,6 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.18%20million%20lines%20of%20code-blue)
@@ -65,42 +63,6 @@ const anmol = {
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                133 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-🌆 Daytime                254 commits         ███████████░░░░░░░░░░░░░░   44.10 % 
-🌃 Evening                183 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Thursday                 75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Friday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Saturday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -114,7 +76,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 06:22:32 UTC
+ Last Updated on 03/01/2026 06:05:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
