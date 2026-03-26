@@ -104,17 +104,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   32.56 % 
-C++                      11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Assembly                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C++                      11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Assembly                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 25/03/2026 04:09:13 UTC
+ Last Updated on 26/03/2026 04:06:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
