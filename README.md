@@ -68,21 +68,21 @@ const anmol = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                130 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-🌆 Daytime                251 commits         ███████████░░░░░░░░░░░░░░   44.50 % 
-🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+🌞 Morning                121 commits         ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌆 Daytime                246 commits         ███████████░░░░░░░░░░░░░░   44.73 % 
+🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   32.18 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Wednesday                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Friday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Saturday                 96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Sunday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Monday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Tuesday                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Friday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Saturday                 96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Sunday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 ```
 
 
@@ -104,17 +104,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
-C++                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-C                        6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Assembly                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
+C++                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Assembly                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 09/05/2026 02:44:23 UTC
+ Last Updated on 10/05/2026 02:50:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
