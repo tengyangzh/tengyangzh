@@ -47,13 +47,15 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 472.8 kB Used in GitHub's Storage 
+> 📦 498.7 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -61,22 +63,58 @@ const anmol = {
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                121 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+🌆 Daytime                246 commits         ███████████░░░░░░░░░░░░░░   44.57 % 
+🌃 Evening                179 commits         ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Tuesday                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Wednesday                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Friday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Saturday                 96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Sunday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
-C++                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Assembly                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
+C++                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Assembly                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 15/05/2026 02:58:56 UTC
+ Last Updated on 16/05/2026 02:47:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
