@@ -47,8 +47,6 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.24%20million%20lines%20of%20code-blue?style=flat)
@@ -120,7 +118,7 @@ Assembly                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:25:58 UTC
+ Last Updated on 29/07/2026 02:30:06 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
