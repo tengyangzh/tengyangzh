@@ -47,8 +47,6 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.24%20million%20lines%20of%20code-blue?style=flat)
@@ -68,21 +66,21 @@ const anmol = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                128 commits         ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-🌆 Daytime                253 commits         ███████████░░░░░░░░░░░░░░   44.54 % 
-🌃 Evening                181 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+🌞 Morning                128 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+🌆 Daytime                253 commits         ███████████░░░░░░░░░░░░░░   44.78 % 
+🌃 Evening                178 commits         ████████░░░░░░░░░░░░░░░░░   31.50 % 
 🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Tuesday                  96 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Wednesday                74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Friday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Saturday                 103 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Sunday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Monday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Tuesday                  96 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Wednesday                71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Friday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Saturday                 103 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Sunday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 ```
 
 
@@ -120,7 +118,7 @@ Assembly                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:26:14 UTC
+ Last Updated on 07/08/2026 02:35:06 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
